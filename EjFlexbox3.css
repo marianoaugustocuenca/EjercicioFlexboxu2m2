@@ -1,0 +1,33 @@
+.back {
+    border: 3px solid black;
+    background-color: lightgrey;
+    margin: 0 auto;
+    display: flex;
+    flex-direction:row;
+    justify-content:space-between;
+
+}
+.red{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    width:200px;
+    height:200px;
+}
+.green {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: green;
+    width:200px;
+    height:200px;
+}
+.blue {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:blue;
+    width:200px;
+    height:200px;
+}
